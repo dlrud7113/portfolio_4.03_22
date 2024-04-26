@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* 메인 포토폴리오 폰트 
+font-family: "Italiana", sans-serif;*/
+@import url("https://fonts.googleapis.com/css2?family=Italiana&display=swap");
+/*메인 한이경 폰트
+ font-family: "Kiwi Maru", serif;
+*/
+@import url("https://fonts.googleapis.com/css2?family=Italiana&family=Kiwi+Maru&display=swap");
+/* nav폰트
+font-family: "Quattrocento Sans", sans-serif;
+ */
+@import url("https://fonts.googleapis.com/css2?family=Italiana&family=Kiwi+Maru&family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://webfontworld.github.io/pretendard/Pretendard.css");
